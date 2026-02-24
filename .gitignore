@@ -1,0 +1,10 @@
+# Ignore the MediaPipe model file
+hand_landmarker.task
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you use them)
+venv/
+env/
